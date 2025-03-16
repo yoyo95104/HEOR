@@ -5,7 +5,7 @@ This Program Should not be used without Authorization and any Action Taken illeg
 # Installing 
 You will Clone the repositry and enter the Directory
 ```
-  git clone https://github.com/yoyo95104/HEOR/blob/main
+  git clone https://github.com/yoyo95104/HEOR/main
   cd HEOR
 ```
 Then make a Build Directory and run cmake
